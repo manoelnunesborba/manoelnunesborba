@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Salut toi ! 👋
+### 🔭  Actuellement en 2ème année de DUT Informatique, je prepare mon diplome de dev ! Hésitez pas a regarder mes repo git, ansi que mon profil [linkedin](https://www.linkedin.com/in/manoel-nunes-borba/)
 <!--
 **manoelnunesborba/manoelnunesborba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
